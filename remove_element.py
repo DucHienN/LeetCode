@@ -7,4 +7,3 @@ for i in range(len(nums)):
         nums[index] = nums[i]
         index += 1
 
-print(index)
